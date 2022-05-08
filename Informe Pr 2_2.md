@@ -1,0 +1,3 @@
+## Practica-2.2-Rafael-Moncayo-Palate
+
+# Codi
