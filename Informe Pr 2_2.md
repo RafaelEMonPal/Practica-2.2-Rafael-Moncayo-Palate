@@ -1,6 +1,6 @@
-## Practica-2.2-Rafael-Moncayo-Palate
+# Practica-2.2-Rafael-Moncayo-Palate
 
-# Codi de la pràctica
+## Codi de la pràctica
 ```cpp
 
 #include <Arduino.h>
