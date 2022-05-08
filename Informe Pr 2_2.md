@@ -47,3 +47,4 @@ void loop() {
 
 ![alt text](https://github.com/RafaelEMonPal/Practica-2.2-Rafael-Moncayo-Palate/blob/main/Pr_2_2_Captura.png)
 
+## Explicació de la pràctica
